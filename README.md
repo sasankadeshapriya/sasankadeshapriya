@@ -1,7 +1,6 @@
 [![MasterHead](https://d33wubrfki0l68.cloudfront.net/590398ae9a27fec27fdac9450c0738d409cc84ff/c6bb7/static/2b5773beca118974180168ada813ba7b/an-introduction-to-low-level-programming.jpg)](https://creditshub.tech)
 
 <h1 align="center">Hi 👋, I'm Sasanka Deshapriya</h1>
-<h3 align="center">An undergraduate at University of Ruhuna in Sri Lanka (Reading for BICT Honours)</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sasankadeshapriya&label=Profile%20views&color=0e75b6&style=flat" alt="sasankadeshapriya" /> </p>
 
@@ -12,8 +11,6 @@
 - 👯 I’m looking to collaborate on **web application projects**
 
 - 📫 How to reach me **deshapriyad.sasanka@gmail.com**
-
-- ⚡ Fun fact **I enjoy hiking and have climbed some of the tallest mountains in my region.**
 
 
 <h3 align="left">Connect with me:</h3>
