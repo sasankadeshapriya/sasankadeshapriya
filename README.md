@@ -2,7 +2,9 @@ How to reach me: **deshapriyad.sasanka@gmail.com**
 
 
 <h3 align="left">Social Media</h3>
-<p align="left"><a href="https://linkedin.com/in/dimuthu-deshapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshapriya69" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/dimuthu-deshapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshapriya69" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/21339385/sasanka-deshapriya" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/stackoverflow-color-icon.svg" alt="deshapriya69" height="30" width="40" /></a>
 </p>
 
 
